@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻 Web developer focused on clean, responsive UI<br>🚀 Practicing DSA in C++<br>🌐 Learning full-stack (APIs & databases)<br>🔧 Building real-world projects<br>🧠 Problem-solving mindset<br>📈 Always learning and improving<br>🤝 Open to collaboration<br>
+Hi, I’m Harsh Mahajan — a CS student and aspiring Full-Stack Developer with a strong foundation in C++ and DSA, turning ideas into real-world applications from clean UI design to efficient backend systems 🚀
+<br>
 
 
 ## 🌐 Socials:
