@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Harsh Mahajan — a CS student and aspiring Full-Stack Developer with a strong foundation in C++ and DSA, turning ideas into real-world applications from clean UI design to efficient backend systems 🚀
+Hi, I’m Harsh Mahajan — a CS & IT student and aspiring Full-Stack Developer with a strong foundation in C++ and DSA, turning ideas into real-world applications from clean UI design to efficient backend systems 🚀
 <br>
 
 
